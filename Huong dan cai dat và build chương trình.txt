@@ -1,0 +1,26 @@
+H??ng d?n cài ??t và build ch??ng trình:
+Th?c t?p chuyên môn 
+==============================
+TR?N NG?C SANG
+==============================
+Ch? ?? : APP QU?N LÝ QUÁN ?N
+------------------------------
+==============================
+Cách cài ??t và build lên ch??ng trình
+
+B1: T?i SQLServer và Visual Studio Code 2022
+B2:T?i Source Code t? github v?
+B3: Vào SQLServer t?o database và thêm d? li?u trong th? m?c SQL
+B4: M? ch??ng trình b?ng Visual Studio Code 2022 
+B5: Ki?m tra các yêu c?u v? phiên b?n .NET Framework và SDK mà project yêu c?u. ??m b?o r?ng máy tính c?a b?n ?ã cài ??t phiên b?n t??ng thích.
+B7 : Ch?y Ch??ng trình và ??ng nh?p b?ng tài kho?n
+TK: Admin
+MK: ad
+?? vào trang ch? admin
+ho?c
+TK: Thanh Tuan
+MK:nv
+?? vào trang nhân viên
+B8: Sau khi ??ng nh?p và th? test các ch?c n?ng có trong ch??ng trình
+
+
