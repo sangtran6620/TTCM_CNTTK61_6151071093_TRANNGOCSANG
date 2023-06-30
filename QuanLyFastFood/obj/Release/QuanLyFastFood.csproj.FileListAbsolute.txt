@@ -1,0 +1,378 @@
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\SqlServerTypes\x64\msvcr120.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\SqlServerTypes\x86\msvcr120.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\QuanLyFastFood.exe.config
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\QuanLyFastFood.exe
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\QuanLyFastFood.pdb
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.Design.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.WebDesign.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.WebForms.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.WinForms.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\Microsoft.SqlServer.Types.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\EnvDTE.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\stdole.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\Microsoft.MSXML.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\obj\Release\QuanLyFastFood.csprojAssemblyReference.cache
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\obj\Release\QuanLyFastFood.fAccountProfile.resources
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\obj\Release\QuanLyFastFood.fAdmin.resources
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\obj\Release\QuanLyFastFood.Form1.resources
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\obj\Release\QuanLyFastFood.fTableManager.resources
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\obj\Release\QuanLyFastFood.Properties.Resources.resources
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\obj\Release\QuanLyFastFood.csproj.GenerateResource.cache
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\obj\Release\RdlCompile.cache
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\obj\Release\RdlCompile.compiled
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\obj\Release\QuanLyFastFood.csproj.CoreCompileInputs.cache
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\obj\Release\QuanLyFastFood.csproj.CopyComplete
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\obj\Release\QuanLyFastFood.exe
+E:\thuc-tap-chuyen-mon\QuanLyFastFood\obj\Release\QuanLyFastFood.pdb
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\SqlServerTypes\x64\msvcr120.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\SqlServerTypes\x86\msvcr120.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\QuanLyFastFood.exe.config
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\QuanLyFastFood.exe
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\QuanLyFastFood.pdb
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.Design.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.WebDesign.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.WebForms.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\Microsoft.SqlServer.Types.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\EnvDTE.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\stdole.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\Microsoft.MSXML.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\obj\Release\QuanLyFastFood.csproj.AssemblyReference.cache
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\obj\Release\QuanLyFastFood.fAccountProfile.resources
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\obj\Release\QuanLyFastFood.fAdmin.resources
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\obj\Release\QuanLyFastFood.Form1.resources
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\obj\Release\QuanLyFastFood.fTableManager.resources
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\obj\Release\QuanLyFastFood.Properties.Resources.resources
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\obj\Release\QuanLyFastFood.csproj.GenerateResource.cache
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\obj\Release\QuanLyFastFood.csproj.CoreCompileInputs.cache
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\obj\Release\QuanLyFastFood.csproj.CopyComplete
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\obj\Release\QuanLyFastFood.exe
+D:\thuc-tap-chuyen-mon-master\QuanLyFastFood\obj\Release\QuanLyFastFood.pdb
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\SqlServerTypes\x64\msvcr120.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\SqlServerTypes\x86\msvcr120.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\QuanLyFastFood.exe.config
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\QuanLyFastFood.exe
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\QuanLyFastFood.pdb
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.Design.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.WebDesign.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.WebForms.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.SqlServer.Types.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\EnvDTE.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\stdole.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.MSXML.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.csproj.AssemblyReference.cache
+D:\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.fAccountProfile.resources
+D:\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.fAdmin.resources
+D:\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.Form1.resources
+D:\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.fTableManager.resources
+D:\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.Properties.Resources.resources
+D:\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.csproj.GenerateResource.cache
+D:\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.csproj.CoreCompileInputs.cache
+D:\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.csproj.CopyComplete
+D:\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.exe
+D:\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.pdb
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\QuanLyFastFood.exe.config
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\QuanLyFastFood.exe
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\QuanLyFastFood.pdb
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\EnvDTE.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\stdole.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\Microsoft.MSXML.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.fAccountProfile.resources
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.fAdmin.resources
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.Form1.resources
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.fTableManager.resources
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.csproj.CopyComplete
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.exe
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.pdb
+C:\Users\Acer\OneDrive\Máy tính\ThucAnNhanh\QuanLyFastFood\obj\Release\QuanLyFastFood.csproj.AssemblyReference.cache
